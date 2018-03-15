@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "bootstrap": ">=3.0.0",
-    "bootstrap-datepicker": "1.7.1",
+    "bootstrap-datepicker": "https://github.com/htrex/bootstrap-datepicker.git",
     "bootstrap-timepicker": "^0.5.2",
     "jquery": ">=2.2.1"
   },
